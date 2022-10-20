@@ -28,8 +28,7 @@ An e-commerce application for an online book store created with ASP.NET Core 6.0
 
 
 
-# Live Demo
-[https://bookcart.azurewebsites.net/](https://bookcart.azurewebsites.net/)
+
 
 
 
