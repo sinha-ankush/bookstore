@@ -23,7 +23,6 @@ An e-commerce application for an online book store created with ASP.NET Core 6.0
 
 # Prerequisites
 - Visual Studio 2022 
-- SQL Server 
 - .NET Core 6.0 SDK or above
 - Node.Js V12.0 or above
 
