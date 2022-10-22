@@ -4,7 +4,7 @@ An e-commerce application for an online book store c.
 
 # Concepts Covered
 
-### ASP .NET Core
+### Core
 
  - Web API 
  - Policy based Authorization using JWT
@@ -22,7 +22,10 @@ An e-commerce application for an online book store c.
  - Dynamic themes
 
 
-#output
+### Output
+
+
+
 ![Screenshot from 2022-10-20 20-16-37](https://user-images.githubusercontent.com/114245841/196997272-e5e757e5-6674-4841-aeab-585e5455116c.png)
 ![Screenshot from 2022-10-20 21-09-45](https:![Screenshot from 2022-10-20 20-34-53](https://user-images.githubusercontent.com/114245841/196997571-07aa8bb3-4234-444a-9245-ee8a8b163da5.png)
 //user-images.githubusercontent.com/114245841/196997556-7055a86c-e225-4fdd-bcb1-33e4a9cc3b5e.png)
