@@ -1,6 +1,6 @@
 # BookCart
 
-An e-commerce application for an online book store created with ASP.NET Core 6.0 and Angular..
+An e-commerce application for an online book store c.
 
 # Concepts Covered
 
@@ -21,10 +21,6 @@ An e-commerce application for an online book store created with ASP.NET Core 6.0
  - Pipes
  - Dynamic themes
 
-# Prerequisites
-- Visual Studio 2022 
-- .NET Core 6.0 SDK or above
-- Node.Js V12.0 or above
 
 #output
 ![Screenshot from 2022-10-20 20-16-37](https://user-images.githubusercontent.com/114245841/196997272-e5e757e5-6674-4841-aeab-585e5455116c.png)
